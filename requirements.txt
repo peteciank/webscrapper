@@ -1,0 +1,4 @@
+streamlit==0.79.0
+requests==2.25.1
+lxml==4.6.3
+beautifulsoup4==4.9.3
